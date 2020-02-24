@@ -1,2 +1,3 @@
-# ELF
-ELF manipulation lib (will use for virus building)
+# ELF lib
+
+Contains elf parse, sanitize and injection functions.
